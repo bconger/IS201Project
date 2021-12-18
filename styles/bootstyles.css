@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mainbody{
+    top: 55px;
+    left: 5px;
+    right: 5px;
+    bottom: 80px;
+    font-size: 17pt;         
+}
+
+
+.footer{
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    text-align: center;
+    font-size: 8pt;
+}
+
+.smallertext{
+    font-size: 12pt;
+}
+
+.centerjustify{
+    text-align: center;
+}
+
+.rightjustify{
+    text-align: end;
+}
